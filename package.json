@@ -1,6 +1,6 @@
 {
-  "name": "react-sortable-hoc",
-  "version": "2.0.0",
+  "name": "@coulson/react-sortable-hoc",
+  "version": "2.0.1",
   "description": "Set of higher-order components to turn any list into a sortable, touch-friendly, animated list",
   "author": {
     "name": "Clauderic Demers",
@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clauderic/react-sortable-hoc.git"
+    "url": "https://github.com/coulson84/react-sortable-hoc.git"
   },
   "bugs": {
-    "url": "https://github.com/clauderic/react-sortable-hoc/issues"
+    "url": "https://github.com/coulson84/react-sortable-hoc/issues"
   },
   "keywords": [
     "react",
@@ -54,8 +54,8 @@
   },
   "peerDependencies": {
     "prop-types": "^15.5.7",
-    "react": "^16.3.0 || ^17.0.0",
-    "react-dom": "^16.3.0 || ^17.0.0"
+    "react": "^16.3.0 || ^18.0.0",
+    "react-dom": "^16.3.0 || ^18.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
@@ -105,5 +105,6 @@
     "sass-loader": "^7.1.0",
     "standard-version": "^4.4.0",
     "style-loader": "^0.23.1"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }

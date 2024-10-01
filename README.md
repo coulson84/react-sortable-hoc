@@ -7,6 +7,8 @@
 
 <a href="https://github.com/clauderic/dnd-kit"><img alt="Visit @dnd-kit github repository" src=".github/assets/dnd-kit-banner.svg" /></a>
 
+This is a straight clone of https://github.com/coulson84/react-sortable-hoc but with the peer-dependency for react and react-dom update to include 18.x
+
 # <img src=".github/assets/react-sortable-hoc-logo.png" width="400" alt="React Sortable HOC" />
 
 > A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list
