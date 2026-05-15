@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.2"></a>
+## [1.1.2](https://github.com/coulson84/react-sortable-hoc/compare/v1.1.0...v1.1.2) (2026-05-15)
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2025-02-25)
 
