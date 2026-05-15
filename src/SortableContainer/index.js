@@ -73,7 +73,7 @@ export default function sortableContainer(
 
       Promise.resolve(container).then((containerNode) => {
         this.container = containerNode;
-        this.document = this.container.ownerDocument || document;
+        this.document = this.container?.ownerDocument || document;
 
         /*
          *  Set our own default rather than using defaultProps because Jest
